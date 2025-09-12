@@ -1,1 +1,3 @@
-initial contents.
+After the Initial Commit:
+AAAAAA
+Will commit soon.
